@@ -2,7 +2,11 @@
 //Because it's too late to someone's attendance!
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 
+struct data{
+
+ };
 int main(void)
 {
 
