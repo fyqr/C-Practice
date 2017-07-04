@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1482046906 source:c:\users\admin\documents\github\c_learning_2016\record_the_attendanc_time\sort.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
