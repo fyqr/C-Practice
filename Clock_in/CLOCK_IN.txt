@@ -1,0 +1,40 @@
+
+
+On_time is.
+
+
+
+On_time is Fri.
+On_time is Fri.
+On_time is Fri.
+
+
+
+01/06/17 's On_time is 08:35:26.
+
+01/07/17 's On_time is 08:36:36.
+01/07/17 's On_time is 08:38:16.
+01/07/17 's On_time is 08:39:31.
+
+01/07/17 's On_time is 08:41:32.
+2017-01-07
+01/09/17 's On_time is 07:54:44.
+2017-01-09
+01/09/17 's On_time is 07:56:33.
+2017-01-09
+2017-01-10
+2017-01-10's on_time is 07:52:07
+2017-01-10's on_time is 07:52:40
+2017-01-10's on_time is 07:53:57
+2017-01-10's on_time is 07:54:31
+2017-01-10's on_time is 07:59:25
+2017-01-10's on_time is 08:18:40
+2017-01-10's on_time is 08:20:05
+2017-01-10's on_time is 08:20:52
+2017-01-10's on_time is 08:31:08
+2017-01-10's on_time is 08:31:38
+2017-01-10's on_time is 08:32:28
+2017-01-10's on_time is 08:32:44
+2017-01-10's on_time is 08:33:22
+2017-01-10's on_time is 08:39:44
+2017-01-11's on_time is 08:01:32
